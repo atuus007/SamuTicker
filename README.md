@@ -31,6 +31,8 @@ tail -f out|grep "HABITUATION MONITOR"
 
 ### Verification
 
+The agent do not learn due to the rewarding is changed to the inverse:
+
 ![verify](https://cloud.githubusercontent.com/assets/3148120/13195359/5f36f2bc-d7b0-11e5-96f2-afa73e44573e.png)
 
 
@@ -58,3 +60,6 @@ https://github.com/nbatfai/SamuCopy
 
 SamuTicker
 https://github.com/nbatfai/SamuTicker
+
+SamuVocab
+https://github.com/nbatfai/SamuVocab
