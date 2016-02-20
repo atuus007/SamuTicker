@@ -1,5 +1,4 @@
 # SamuTicker, exp. 6, cognitive mental organs: MPU (Mental Processing Unit), acquiring higher-order knowledge
-Samu has learned words.
 
 The agent learns and recognizes two different sentences. It is shown in video at https://youtu.be/XwixRpNHe-E
 
